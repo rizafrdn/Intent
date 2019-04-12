@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImplicitIntent</string>
+    <string name="button_uri">button_url</string>
+    <string name="button_loc">buttton_loc</string>
+    <string name="editText_uri">editText_url</string>
+    <item name="website_edittext" type="id">edittext</item>
+</resources>
